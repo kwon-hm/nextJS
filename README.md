@@ -1,1 +1,1 @@
-# nextJS
+# nextJS CSR SSG ISR
